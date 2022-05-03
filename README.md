@@ -7,4 +7,4 @@ ThreeDimensionPlot.py is used to draw 3D plot model which shows the relationship
 
 Instantiation.py is used to instantiate the model.
 
-Created by Hongyu Xiang and Zhuoyang Zhang
+Created by Hongyu Xiang and Zhuoyang Zhang, University of Virginia
